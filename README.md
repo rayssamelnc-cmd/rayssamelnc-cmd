@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/mel.png" width="160" alt="Pote de mel" />
+</p>
 
-<!--
-**rayssamelnc-cmd/rayssamelnc-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I'm Mel 🍯
+Applying what I learn from courses, developing new ideas, and exploring my creativity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐝 Languages
+- HTML
+- CSS
+- Python
+
+---
+
+<p align="center">🍯 Thanks for visiting! 🍯</p>
