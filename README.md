@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rayssamelnc-cmd/rayssamelnc-cmd/blob/main/gifabelha.gif?raw=true" width="200" alt="gif abelha" />
+  <img src="[https://github.com/rayssamelnc-cmd/rayssamelnc-cmd/blob/main/gifabelha.gif?raw=true](https://github.com/rayssamelnc-cmd/rayssamelnc-cmd/blob/main/gifabelhagrande-ezgif.com-gif-maker.png?raw=true)" width="200" alt="gif abelha" />
 </p>
 
 <h1 align="center">Welcome! My name is Mel🍯</h1>
