@@ -4,7 +4,7 @@
 
 <h1 align="center">Welcome! My name is Mel🍯</h1>
 
-<p align= "center">Applying what I learn from courses, developing new ideas, and exploring my creativity </p>
+<p align= "center">Here I apply what I learn from courses, developing new ideas and exploring my creativity </p>
 
 ---
 
