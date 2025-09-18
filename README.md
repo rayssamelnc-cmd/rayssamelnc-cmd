@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/mel.png" width="160" alt="Pote de mel" />
+  <img src="" width="160" alt="Pote de mel" />
 </p>
 
-Hey! I'm Mel 🍯
+<h1> Hey! I'm Mel 🍯</h1>
 Applying what I learn from courses, developing new ideas, and exploring my creativity
 
 ---
