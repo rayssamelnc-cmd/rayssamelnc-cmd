@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="160" alt="Pote de mel" />
+  <img src="https://github.com/rayssamelnc-cmd/rayssamelnc-cmd/blob/main/gifabelha.gif?raw=true" width="160" alt="Pote de mel" />
 </p>
 
 <h1> Hey! I'm Mel 🍯</h1>
