@@ -9,11 +9,9 @@
 ---
 
 <h2>🐝 Languages </h2>
-<p align="center">
-  <img src="" width="100" alt="gif abelha" />
-</p>
+- HTML
 - CSS
-- Python
+- PYTHON
 
 ---
 
