@@ -9,7 +9,7 @@
 ---
 
 <h2>🐝 Languages </h2>
-<img src="https://github.com/rayssamelnc-cmd/rayssamelnc-cmd/blob/main/%C3%8Dcone%20de%20Arquivo%20HTML%20em%20Rosa.png?raw=true" width="160" alt="html"
+- HTML
 - CSS
 - Python
 
