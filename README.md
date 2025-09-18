@@ -10,7 +10,7 @@
 
 <h2>🐝 Languages </h2>
 <p align="center">
-  <img src="https://github.com/rayssamelnc-cmd/rayssamelnc-cmd/blob/main/gifabelha.gif?raw=true" width="100" alt="gif abelha" />
+  <img src="" width="100" alt="gif abelha" />
 </p>
 - CSS
 - Python
