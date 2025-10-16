@@ -17,6 +17,6 @@
 <p>👩‍💻 Computer Science student</p>
 <p>🌟 21 years old</p>
 <p>🍯 Living a sweet journey of lifelong learning</p>
----
+
 
 <p align="center">🍯 Thanks for visiting! 🍯</p>
