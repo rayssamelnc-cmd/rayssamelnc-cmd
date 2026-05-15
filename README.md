@@ -14,9 +14,9 @@
 <img src="https://img.shields.io/badge/Python-DA70D6?style=plastic&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-FF69B4?style=plastic&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-DA70D6?style=plastic&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/C-FF69B4?style=plastic&logo=c&logoColor=white"/>
 
 <h2>🐝 About me</h2>
-<p>🌟 21 years old</p>
-<p>👩‍💻 Computer Science student</p>
-<p>🍯 Walking through a sweet and endless path of learning</p>
+<p> 21 years old</p>
+<p> Computer Science student</p>
+<p> Walking through a sweet and endless path of learning</p>
 
 
 <p align="center">🍯 Thanks for visiting! 🍯</p>
